@@ -120,7 +120,7 @@ console.log(arr1)
 
 arr2  = ["Raju", "Rajesh", "Naveen", "suchita"]
 
-arr3 = arr2.map( element => element+"blr")
+arr3 = arr2.map( element => element+"blr ")
 
 console.log(arr3)
 
